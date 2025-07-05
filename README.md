@@ -24,7 +24,7 @@ O objetivo foi utilizar o software **WEKA** para analisar um conjunto de dados s
 
 ## Como Reproduzir a Análise
 
-1. Baixe o arquivo `heart_disease_uci_final.arff` do link do Kaggle ou utilize o arquivo fornecido neste repositório.
+1. Baixe o arquivo `heart_disease.arff` do link do Kaggle ou utilize o arquivo fornecido neste repositório.
 2. Baixe e instale o software **[WEKA](https://www.cs.waikato.ac.nz/ml/weka/downloading.html)**.
 3. Abra o **WEKA Explorer**.
 4. Clique em "Open file..." e selecione o arquivo `.arff`.
